@@ -10,8 +10,8 @@
 		DCC97013229013E3002D8A33 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCC97012229013E3002D8A33 /* AppDelegate.swift */; };
 		DCC97015229013E3002D8A33 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCC97014229013E3002D8A33 /* ViewController.swift */; };
 		DCC97018229013E3002D8A33 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DCC97016229013E3002D8A33 /* Main.storyboard */; };
-		DCC9701A229013E4002D8A33 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DCC97019229013E4002D8A33 /* Assets.xcassets */; };
 		DCC9701D229013E4002D8A33 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DCC9701B229013E4002D8A33 /* LaunchScreen.storyboard */; };
+		DCC9702522906666002D8A33 /* Media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DCC9702422906666002D8A33 /* Media.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,9 +19,9 @@
 		DCC97012229013E3002D8A33 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DCC97014229013E3002D8A33 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		DCC97017229013E3002D8A33 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		DCC97019229013E4002D8A33 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DCC9701C229013E4002D8A33 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DCC9701E229013E4002D8A33 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DCC9702422906666002D8A33 /* Media.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Media.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,9 +57,9 @@
 				DCC97012229013E3002D8A33 /* AppDelegate.swift */,
 				DCC97014229013E3002D8A33 /* ViewController.swift */,
 				DCC97016229013E3002D8A33 /* Main.storyboard */,
-				DCC97019229013E4002D8A33 /* Assets.xcassets */,
 				DCC9701B229013E4002D8A33 /* LaunchScreen.storyboard */,
 				DCC9701E229013E4002D8A33 /* Info.plist */,
+				DCC9702422906666002D8A33 /* Media.xcassets */,
 			);
 			path = "NC Bird";
 			sourceTree = "<group>";
@@ -123,7 +123,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DCC9701D229013E4002D8A33 /* LaunchScreen.storyboard in Resources */,
-				DCC9701A229013E4002D8A33 /* Assets.xcassets in Resources */,
+				DCC9702522906666002D8A33 /* Media.xcassets in Resources */,
 				DCC97018229013E3002D8A33 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
